@@ -9,9 +9,15 @@
 >
 >Longbow Media
 >1 year ago
+>
 >If the solenoid is bad, the car won't start, because fuel won't be sent to the delivery pipes.
+>
 >My solenoid was blowing the 16 amp fuse, 3rd from the bottom.
+>
 >After measuring with a multimeter, I found my resistance to be 0.9 ohms, which is about 10% of what it should be, thereby causing too much current to flow, explaining the blown fuse.  
+>
 >After replacing the solenoid, my reading was about 10 ohms.  
+>
 >My other diesel reads 7.7 ohms.
+>
 >Anything under 5 ohms may probably indicate a failing solenoid.
